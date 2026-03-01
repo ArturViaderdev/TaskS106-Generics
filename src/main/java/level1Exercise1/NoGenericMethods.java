@@ -1,4 +1,4 @@
-package Level1Exercise1;
+package level1Exercise1;
 
 public class NoGenericMethods {
     private String a;
