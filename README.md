@@ -47,6 +47,8 @@ java Main.java
 ````
 The projects are inside src/main/java.
 
+Or run with IntelliJ IDEA.
+
 ## Task Description
 
 In this task, you’ll dive deeper into one of the most powerful and flexible concepts in the Java language: **Generics**.  
